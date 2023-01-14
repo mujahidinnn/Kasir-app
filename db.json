@@ -185,8 +185,8 @@
   ],
   "keranjangs": [
     {
-      "jumlah": 14,
-      "total_harga": 224000,
+      "jumlah": 1,
+      "total_harga": 16000,
       "product": {
         "id": 1,
         "kode": "K-01",
@@ -200,6 +200,74 @@
         }
       },
       "id": 1
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 14000,
+      "product": {
+        "id": 2,
+        "kode": "K-02",
+        "nama": "Nasi Goreng Telur",
+        "harga": 14000,
+        "is_ready": true,
+        "gambar": "nasi-goreng-telor.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Makanan"
+        }
+      },
+      "id": 2
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 7000,
+      "product": {
+        "id": 12,
+        "kode": "K-012",
+        "nama": "Es Jeruk",
+        "harga": 7000,
+        "is_ready": true,
+        "gambar": "es-jeruk.jpg",
+        "category": {
+          "id": 2,
+          "nama": "Minuman"
+        }
+      },
+      "id": 3
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 5000,
+      "product": {
+        "id": 13,
+        "kode": "K-013",
+        "nama": "Es Teh",
+        "harga": 5000,
+        "is_ready": true,
+        "gambar": "es-teh.jpg",
+        "category": {
+          "id": 2,
+          "nama": "Minuman"
+        }
+      },
+      "id": 4
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 5000,
+      "product": {
+        "id": 9,
+        "kode": "K-09",
+        "nama": "Kentang Goreng",
+        "harga": 5000,
+        "is_ready": true,
+        "gambar": "kentang-goreng.jpg",
+        "category": {
+          "id": 3,
+          "nama": "Cemilan"
+        }
+      },
+      "id": 5
     }
   ]
 }
